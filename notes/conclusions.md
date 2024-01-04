@@ -1,4 +1,4 @@
-## Análisis
+## Analisis
 
 - <strong>General GDP Trend (Up to 2021):</strong> The data indicates a steady growth in the GDP of the analyzed countries up until 2021. This may reflect a sustained economic expansion during this period.
 
